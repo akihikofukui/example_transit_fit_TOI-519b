@@ -3,4 +3,4 @@ Example of transit model fitting with pyTransit and emcee
 
 
 ## Requirements
-** numpy, matplotlib, scipy, math, os, pytransit, ldtk, emcee, corner, multiprocessing 
+numpy, matplotlib, scipy, math, os, pytransit, ldtk, emcee, corner, multiprocessing 
