@@ -7,4 +7,4 @@ numpy, matplotlib, scipy, math, os, multiprocessing, [pytransit](https://github.
 
 
 ## Author
-Akihiko Fukui (afukui@g.ecc.u-tokyo.ac.jp)
+[Akihiko Fukui](afukui@g.ecc.u-tokyo.ac.jp)
